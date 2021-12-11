@@ -1,0 +1,50 @@
+h1 { color: black; 
+    background-color: grey;
+
+}
+header { color: black; 
+        font: inherit;
+        font-size: 16px;
+        background-color: gold;
+        background-size: 1000px;
+        background-size: 200px;
+        padding-left: 600px;
+        padding-top: 50px;
+        padding-bottom: 25px;
+        font: bold;
+
+
+}
+
+h2 {
+    color: black;
+    }
+
+body a {
+    color: black;
+}
+
+body img {
+    height: 400px;
+}
+
+body2{
+    color: black;
+}
+
+body2 img {
+    height: 300px;
+}
+
+
+table {
+    padding-top: 50px;
+    padding-left: 500px;
+    font-size: 18px;
+}
+
+form {
+    padding-top: 50px;
+    padding-left: 500px;
+    font-size: 18px;
+}
